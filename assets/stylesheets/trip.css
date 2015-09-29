@@ -1,0 +1,12 @@
+#trip {
+  height: 32em; }
+  #trip .t {
+    margin-top: 4em; }
+  #trip p {
+    margin-top: 6em; }
+  #trip .carousel-indicators {
+    margin-bottom: -4em; }
+    #trip .carousel-indicators li {
+      background-color: #000; }
+
+/*# sourceMappingURL=trip.css.map */

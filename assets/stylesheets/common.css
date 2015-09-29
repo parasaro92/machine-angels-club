@@ -1,0 +1,55 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  overflow-x: hidden;
+  width: 100%; }
+
+.vcenter {
+  border: 1px solid transparent;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%); }
+
+header .navbar-default .navbar-nav > li > a {
+  color: #FFF; }
+  header .navbar-default .navbar-nav > li > a:hover {
+    border-bottom: 1px solid white;
+    color: #F1B95E; }
+header .navbar-default .navbar-nav {
+  position: relative;
+  right: 8em; }
+header nav.navbar {
+  margin-bottom: 0;
+  background-color: #000;
+  border-width: 0 0 1px 0;
+  border-color: transparent; }
+  header nav.navbar.affix {
+    background-color: #2e3b4d; }
+  header nav.navbar.affix-top {
+    background-color: transparent; }
+  header nav.navbar form input {
+    height: 2.4em;
+    border-radius: 1.2em; }
+  header nav.navbar form i.fa {
+    margin-left: -2.2em;
+    color: rgba(0, 0, 0, 0.3); }
+  header nav.navbar a.navbar-brand .name {
+    color: #F1B95E;
+    font-size: 1.2em;
+    margin-left: 3em; }
+  header nav.navbar a.navbar-brand.navbar-default .navbar-nav > li > a, header nav.navbar a.navbar-brand.navbar-default .navbar-nav > li > a:hover, header nav.navbar a.navbar-brand.navbar-default .navbar-nav > li > a:visited, header nav.navbar a.navbar-brand.navbar-default .navbar-nav > li > a:link {
+    border-bottom: 3px solid transparent;
+    color: #FFF;
+    transition: border-color 0.3s ease-in;
+    background-color: transparent; }
+  header nav.navbar a.navbar-brand.navbar-default .navbar-nav > li > a:hover {
+    border-color: rgba(255, 255, 255, 0.4); }
+
+footer {
+  background-color: #2e3b4d;
+  color: #FFF;
+  padding: 4vh 0;
+  text-align: center; }
+  footer .fa {
+    margin-right: 0.5em; }
+
+/*# sourceMappingURL=common.css.map */

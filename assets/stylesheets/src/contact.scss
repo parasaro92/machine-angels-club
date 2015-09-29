@@ -1,0 +1,48 @@
+#contact {
+  background-color: #273943;
+  height: 20em;
+  color: #FFF;
+
+  .time {
+    color: #6fb2d5;
+  }
+  
+  h4 {
+    font-size: 1.1em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  p {
+    font-size: 1.1em;
+  }
+
+  .row {
+    margin: 4em 0;
+  }
+
+  .fa-phone {
+  color: #6fb2d5;  
+  margin-right: 1em;
+  }
+
+  .fa-envelope-o {
+  color: #6fb2d5;  
+  margin-right: 1em;  
+  }
+
+  .fa-location-arrow {
+  color: #6fb2d5;  
+  margin-right: 1em;
+  }
+
+  .fa-twitter {
+    margin-left: -1em;
+    color: #6fb2d5;
+  }
+
+  .btn {
+    background-color: #6fb2d5;
+    color: #FFF;
+  }
+}

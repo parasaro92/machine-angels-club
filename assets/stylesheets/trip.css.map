@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAM;EACJ,MAAM,EAAE,IAAI;EAEZ,QAAG;IACD,UAAU,EAAE,GAAG;EAGjB,OAAE;IACA,UAAU,EAAE,GAAG;EAGjB,0BAAqB;IACnB,aAAa,EAAE,IAAI;IAEnB,6BAAG;MACD,gBAAgB,EAAE,IAAI",
+"sources": ["src/trip.scss"],
+"names": [],
+"file": "trip.css"
+}

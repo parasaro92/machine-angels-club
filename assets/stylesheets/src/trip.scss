@@ -1,0 +1,19 @@
+#trip {
+  height: 32em;
+
+  .t {
+    margin-top: 4em;    
+  }
+
+  p {
+    margin-top: 6em;
+  }
+
+  .carousel-indicators {
+    margin-bottom: -4em;
+
+    li {
+      background-color: #000;
+    }
+  }
+}

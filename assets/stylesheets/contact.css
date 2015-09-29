@@ -1,0 +1,31 @@
+#contact {
+  background-color: #273943;
+  height: 20em;
+  color: #FFF; }
+  #contact .time {
+    color: #6fb2d5; }
+  #contact h4 {
+    font-size: 1.1em;
+    font-weight: bold;
+    text-transform: uppercase; }
+  #contact p {
+    font-size: 1.1em; }
+  #contact .row {
+    margin: 4em 0; }
+  #contact .fa-phone {
+    color: #6fb2d5;
+    margin-right: 1em; }
+  #contact .fa-envelope-o {
+    color: #6fb2d5;
+    margin-right: 1em; }
+  #contact .fa-location-arrow {
+    color: #6fb2d5;
+    margin-right: 1em; }
+  #contact .fa-twitter {
+    margin-left: -1em;
+    color: #6fb2d5; }
+  #contact .btn {
+    background-color: #6fb2d5;
+    color: #FFF; }
+
+/*# sourceMappingURL=contact.css.map */
